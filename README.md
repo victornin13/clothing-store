@@ -15,4 +15,4 @@ Flow Chart of Code
 
 Output: 
 
-<img width="670" alt="Screenshot 2023-11-05 at 2 06 16 PM" src="https://github.com/victornin13/clothing-store/assets/122950211/71d3e9bd-88a6-415a-a3ad-2d32ad1af073">
+<img width="670" alt="Output" src="https://github.com/victornin13/clothing-store/assets/122950211/f9d29d9e-7e4b-4eaf-97e7-fd85a63d5b42">
